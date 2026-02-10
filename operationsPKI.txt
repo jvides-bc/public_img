@@ -6,6 +6,6 @@
     "table_name2": "asn0007001-pki-mi-certificado-activity-pdn",
     "csv_file3": "pdn-mi-certificado-publickey-parseado_aux.csv",
     "table_name3": "asn0007001-pki-mi-certificado-publickey-pdn",
-    "dry_run": false,
+    "dry_run": true,
     "execute": true
 }
