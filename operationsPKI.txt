@@ -1,0 +1,6 @@
+{
+    "flag": 12,
+    "csv_file": "pki-pdn-BD1-BD1-parseado.csv",
+    "table_name": "asn0007001-pki-mi-certificado-pdn",
+    "dry_run": false
+}
