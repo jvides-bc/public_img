@@ -1,11 +1,10 @@
 {
-    "flag": 14,
-    "csv_file": "pdn-mi-certificado-parseado.csv",
-    "table_name": "asn0007001-pki-mi-certificado-pdn",
-    "csv_file2": "pdn-mi-certificado-activity-parseado.csv",
-    "table_name2": "asn0007001-pki-mi-certificado-activity-pdn",
-    "csv_file3": "pdn-mi-certificado-publickey-parseado.csv",
-    "table_name3": "asn0007001-pki-mi-certificado-publickey-pdn",
+    "flag": 11,
+    "dynamodb": "pki-pdn",
+    "common_name": "api-aws.apps.bancolombia.com",
+    "certificate_serial": "c8cfdbdcf60c35d55b4201734a1d562c",
+    "update_column": "active",
+    "new_value": "false",
     "dry_run": false,
     "execute": true
 }
