@@ -6,5 +6,5 @@
     "update_column": "common_name",
     "new_value": "h2h-integracion-distribucion-digital-qa.apps.ambientesbc.lab"
     "dry_run": false,
-    "execute": true
+    "execute": false
 }
