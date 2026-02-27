@@ -6,5 +6,5 @@
     "update_column": "active",
     "new_value": "false",
     "dry_run": false,
-    "execute": true
+    "execute": false
 }
