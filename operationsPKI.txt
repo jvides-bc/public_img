@@ -1,10 +1,10 @@
 {
-    "flag": 11,
+    "flag": 14,
     "dynamodb": "pki-pdn",
     "common_name": "api-aws.apps.bancolombia.com",
     "certificate_serial": "c8cfdbdcf60c35d55b4201734a1d562c",
     "update_column": "active",
     "new_value": "false",
     "dry_run": false,
-    "execute": false
+    "execute": true
 }
