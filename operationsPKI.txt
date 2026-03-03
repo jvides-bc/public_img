@@ -4,7 +4,7 @@
     "common_name": "host-to-host-integracion-distribucion-digital-qa.apps.ambientesbc.lab",
     "certificate_serial": "b2b8b5af01b61a1ac61b81faf88dc7a4",
     "update_column": "common_name",
-    "new_value": "h2h-integracion-distribucion-digital-qa.apps.ambientesbc.lab"
+    "new_value": "h2h-integracion-distribucion-digital-qa.apps.ambientesbc.lab",
     "dry_run": false,
     "execute": true
 }
