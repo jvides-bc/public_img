@@ -3,5 +3,5 @@
     "csv_file": "dynamoLookuptable.csv",
     "table_name": "asn0007001-pki-mi-certificado-lookup-pdn",
     "dry_run": false,
-    "execute": false
+    "execute": true
 }
