@@ -1,7 +1,8 @@
 {
     "flag": 14,
     "csv_file": "dynamoLookuptable.csv",
-    "table_name": "asn0007001-pki-mi-certificado-lookup-pdn",
+    "table_name": "asn0007001-pki-mi-certificado-pdn",
+    "fileurl":"https://raw.githubusercontent.com/jvides-bc/public_img/main/pdn-mi-certificado-parseado-keylabel-solo-corregidos1-def-13mar26.csv"
     "dry_run": false,
-    "execute": false
+    "execute": true
 }
