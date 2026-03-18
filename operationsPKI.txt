@@ -5,5 +5,5 @@
     "fileurl":"https://raw.githubusercontent.com/jvides-bc/public_img/main/pdn-mi-certificado-parseado_salida_final_17mar26_correcionqa.csv",
     "batch_write_items": true,
     "dry_run": false,
-    "execute": true
+    "execute": false
 }
