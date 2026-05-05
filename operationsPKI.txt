@@ -1,5 +1,10 @@
 {
     "flag": 11,
-    "dry_run": false,
-    "execute": false
+    "dynamodb": "pki-qa",
+    "common_name": "evolucion-digital-integracion-apy-qa.apps.ambientesbc.lab",
+    "certificate_serial": "6aa006ad0b8921a87d7cbd6c06fd3ada",
+    "update_column": "secret_arn",
+    "new_value": "arn:aws:secretsmanager:us-east-1:907757723230:secret:nu1288001-evodigital-integracion-qa-secret-certificate-2VgYdI",
+    "dry_run": true,
+    "execute": true
 }
