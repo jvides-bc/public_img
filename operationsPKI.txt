@@ -1,9 +1,10 @@
 {
-    "flag": 14,
-    "csv_file": "dynamoLookuptable.csv",
-    "table_name": "asn0007001-pki-mi-certificado-pdn",
-    "fileurl":"https://raw.githubusercontent.com/jvides-bc/public_img/main/pdn-mi-certificado-parseado_salida_final_17mar26_correcionqa.csv",
-    "batch_write_items": true,
-    "dry_run": false,
-    "execute": false
+    "flag": 11,
+    "dynamodb": "pki-pdn",
+    "common_name": "evolucion-digital-integracion-apy.apps.bancolombia.corp",
+    "certificate_serial": "ecb8958c3d1aa35dce5ac10080ba627a",
+    "update_column": "secret_arn",
+    "new_value": "arn:aws:secretsmanager:us-east-1:423484219919:secret:nu1288001-evodigital-integracion-pdn-secret-certificate-qR9eGS",
+    "dry_run": true,
+    "execute": true
 }
