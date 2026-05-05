@@ -4,6 +4,6 @@
     "table_name": "asn0007001-pki-mi-certificado-lookup-dev",
     "fileurl":"https://raw.githubusercontent.com/jvides-bc/public_img/refs/heads/main/campos-lookuptable-05mayo2026-copia.csv",
     "batch_write_items": false,
-    "dry_run": true,
-    "execute": true
+    "dry_run": false,
+    "execute": false
 }
