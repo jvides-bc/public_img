@@ -1,10 +1,5 @@
 {
     "flag": 11,
-    "dynamodb": "pki-pdn",
-    "common_name": "evolucion-digital-integracion-apy.apps.bancolombia.corp",
-    "certificate_serial": "ecb8958c3d1aa35dce5ac10080ba627a",
-    "update_column": "secret_arn",
-    "new_value": "arn:aws:secretsmanager:us-east-1:423484219919:secret:nu1288001-evodigital-integracion-pdn-secret-certificate-qR9eGS",
-    "dry_run": true,
-    "execute": true
+    "dry_run": false,
+    "execute": false
 }
