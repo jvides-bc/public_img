@@ -1,5 +1,5 @@
 ﻿type;item;regex_interno_permitido_descripcion
-regex_caracteres_permitidos_internos;^(?:[a-z0-9-_*](?:[a-z0-9-_*]{0,61}[a-z0-9])?)(?:\.[a-z0-9-]+)*$;
+regex_caracteres_permitidos_internos;^(?:[\w\*](?:[\w*-]{0,61}[\w\-])?)(?:\.[\w\-]+)*$;
 regex_caracteres_denegados_internos;^\*\.;
 regex_caracteres_denegados_internos;\*;
 dominio_externo;leasingbancolombia.com;
