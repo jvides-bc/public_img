@@ -1,9 +1,10 @@
 {
-    "flag": 14,
-    "csv_file": "dynamoLookuptable.csv",
-    "table_name": "asn0007001-pki-mi-certificado-lookup-qa",
-    "fileurl":"https://raw.githubusercontent.com/jvides-bc/public_img/refs/heads/main/campos-lookuptable-05mayo2026-copia.csv",
-    "batch_write_items": false,
-    "dry_run": false,
-    "execute": false
+    "flag": 11,
+    "dynamodb": "pki-qa",
+    "common_name": "soi-was-dev.apps.ambientesbc.lab",
+    "certificate_serial": "f8c68283991ec67fd2b09a2cf37ff7c5",
+    "update_column": "active",
+    "new_value": "true",
+    "dry_run": true,
+    "execute": true
 }
