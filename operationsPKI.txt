@@ -5,6 +5,6 @@
     "certificate_serial": "f8c68283991ec67fd2b09a2cf37ff7c5",
     "update_column": "active",
     "new_value": "true",
-    "dry_run": true,
-    "execute": true
+    "dry_run": false,
+    "execute": false
 }
